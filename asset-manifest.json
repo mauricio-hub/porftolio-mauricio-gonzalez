@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/porftolio-mauricio-gonzalez/static/css/main.b97d2f43.chunk.css",
-    "main.js": "/porftolio-mauricio-gonzalez/static/js/main.9cc5f7e7.chunk.js",
-    "main.js.map": "/porftolio-mauricio-gonzalez/static/js/main.9cc5f7e7.chunk.js.map",
+    "main.js": "/porftolio-mauricio-gonzalez/static/js/main.1492dd1e.chunk.js",
+    "main.js.map": "/porftolio-mauricio-gonzalez/static/js/main.1492dd1e.chunk.js.map",
     "runtime-main.js": "/porftolio-mauricio-gonzalez/static/js/runtime-main.0c7fa776.js",
     "runtime-main.js.map": "/porftolio-mauricio-gonzalez/static/js/runtime-main.0c7fa776.js.map",
     "static/css/2.ec02d681.chunk.css": "/porftolio-mauricio-gonzalez/static/css/2.ec02d681.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.ea8cd9b0.chunk.js",
     "static/css/main.b97d2f43.chunk.css",
-    "static/js/main.9cc5f7e7.chunk.js"
+    "static/js/main.1492dd1e.chunk.js"
   ]
 }
