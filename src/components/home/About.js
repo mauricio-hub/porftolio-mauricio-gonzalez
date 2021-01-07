@@ -9,11 +9,11 @@ export const About = () => {
 
 		 <section id="about" className="about-section" >
       <div className="container">
-      <hr className="hr"/>
+   
         <h2 class="section-title text-center">
         SOBRE MI
         </h2>
-         <hr/>
+      
         <div className="row about-wrapper">
           <div className="col-md-6 col-sm-12 p-4 ">
           <div >
@@ -21,9 +21,9 @@ export const About = () => {
               <img 
                 className="img-fluid foto shadow-lg text-center pl-8  "
                
-                width="160px"
-                height = "160px"
-                src="./img/cv2.jpg"
+                width="190px"
+                height = "190px"
+                src="https://avatars2.githubusercontent.com/u/72770038?s=460&u=ef39bc67a0e796f1b71224bc45f897dc5da9aea9&v=4"
                 alt="Profile Image"
 
                />
@@ -35,7 +35,7 @@ export const About = () => {
            <div >
             <div className="info">
               <p className="about-info-text text-white">
-                Mi nombre es Mauricio González desarrollador web, 
+                Soy Mauricio González desarrollador web, 
                 soy un apasionado de la tecnología  y  la computación ,
                  pero sobre todo soy una persona creativa me gusta crear
                   cosas que se vean geniales y además si le resulta útil 

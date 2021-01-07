@@ -11,11 +11,11 @@ export const Skills = () => {
         <section id="skills" className="skill-section" >
       <div className="container">
       <br/>
-      <hr className="hr"/>
+   
         <h2 class="section-title text-center">
         MIS SKILLS
         </h2>
-         <hr/>
+      
 
         <div className="row about-wrapper">
       
@@ -101,7 +101,7 @@ export const Skills = () => {
 
             </div>
               <div>              
-                        <img src="./img/work3.jpg" alt="" className="skills__img  rounded"/>
+                     <img src="https://images.unsplash.com/photo-1504353888070-4ee702492320?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=722&q=80" alt="" className="skills__img  rounded"/>
                     </div>
 
           </div>

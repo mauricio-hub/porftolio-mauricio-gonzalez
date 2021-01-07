@@ -45,7 +45,7 @@ export const ProjectGrid = () => {
               <div className="">
                 <div >
                   <div data-tilt className="thumbnail rounded  mt-3 fade-in ">
-                    <img className="img-fluid rounded" src="./img/p1.png" />
+                    <img className="img-fluid rounded pro__img" src="https://tottoco.vteximg.com.br/arquivos/ids/256366-1000-1000/RA41535-1920-N01_1.jpg?v=637071744169870000" />
                   </div>
                 </div>
               </div>
@@ -78,7 +78,7 @@ export const ProjectGrid = () => {
               <div className="">
                 <div>
                   <div data-tilt className="thumbnail rounded  mt-3 fade-in">
-                    <img className="img-fluid rounded" src="./img/p4.png" />
+                    <img className="img-fluid rounded  pro__img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKuGReWOpOI3I1q_vlS6uhPy7lo-EwwZ9O0A&usqp=CAU" />
                   </div>
                 </div>
               </div>
@@ -110,7 +110,7 @@ export const ProjectGrid = () => {
               <div className="project-wrapper__image">
                 <div href="#!" target="_blank">
                   <div data-tilt className="thumbnail rounded mb-3 mt-3 fade-in">
-                    <img className="img-fluid rounded img-project" src="./img/pro4.png" />
+                    <img className="img-fluid rounded  pro__img" src="https://images.unsplash.com/photo-1493770348161-369560ae357d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" />
                   </div>
                 </div>
               </div>

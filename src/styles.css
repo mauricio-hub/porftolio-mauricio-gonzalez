@@ -95,9 +95,11 @@
 	color:#fff;
 }
 
-.skills__img{
-		max-width: 100%;
-		margin-bottom:20px; 
+.pro__img{
+		width: 650px;
+		height: 350px;
+			-webkit-filter: grayscale(20%) Safari 6.0 - 9.0; 
+    filter: grayscale(20%);
 	}
 .card-body p{
 	color: black;
@@ -350,12 +352,14 @@
 
 /*Scroll*/
 .scrollTop {
+
 	position: fixed;
+	
 	width: 100%;
 	bottom: 100px;
-	align-items:;
+	align-items:flex-end;
 	height: 20px;
-	justify-content: center;
+	justify-content: flex-start;
 	z-index: 1000;
 	cursor: pointer;
 	animation: fadeIn 0.3s;

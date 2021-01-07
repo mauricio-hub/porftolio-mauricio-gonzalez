@@ -2,7 +2,7 @@
   "name": "mi-portafolio-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://mauricio-hub.github.io/porftolio-mauricio-gonzalez",
+  "homepage":"http://mauricio-hub.github.io/porftolio-mauricio-gonzalez",
   "dependencies": {
     "@react-pdf/renderer": "^1.6.12",
     "@testing-library/jest-dom": "^5.11.6",
